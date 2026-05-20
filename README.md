@@ -1,5 +1,10 @@
 # 여행 성향 분석 모듈
 
+## 프로그램 화면
+<img width="417" height="522" alt="image" src="https://github.com/user-attachments/assets/558304f4-651f-4983-b029-d146dce900ff" />
+<img width="407" height="448" alt="image" src="https://github.com/user-attachments/assets/bb41b3f9-1df5-4847-8d61-eee955d04e08" />
+<img width="297" height="546" alt="image" src="https://github.com/user-attachments/assets/f49423c1-babc-4ea0-84fa-0b6e5537ad57" />
+
 ## 📋 개요
 
 떠나GO의 여행 성향 분석 모듈은 사용자의 여행 스타일을 12가지 질문을 통해 분석하고, 8가지 여행 유형 중 하나로 분류하는 AI 기반 성향 분석 시스템입니다.
